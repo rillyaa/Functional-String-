@@ -62,8 +62,8 @@ Memecah text menjadi kalimat yang dimasukkan dalam `Array` menggunakan fungsi `E
         echo "</br>";
 	}
  ```
- - Menghasilkan output :
- </br>
+ - Menghasilkan output : 
+ 
  ![0a](https://user-images.githubusercontent.com/115610128/196045042-a878c17c-ee17-4fe8-b68e-bdfbdbd55682.jpg)
  ![1a](https://user-images.githubusercontent.com/115610128/196045045-40843c11-51ff-4e30-91a2-ce2b3de0f957.jpg)
  ![2a](https://user-images.githubusercontent.com/115610128/196045046-f620268a-99b2-4103-82e4-8aeb26952b55.jpg)
